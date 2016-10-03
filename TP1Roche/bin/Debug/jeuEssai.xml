@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+
+    <dossier>
+      <nom>Raimon</nom>
+      <prenom>Dylan</prenom>
+      <ddn>
+        <jour>14</jour>
+        <mois>05</mois>
+        <annee>1997</annee>
+      </ddn>
+    </dossier>
+
+    <dossier>
+      <nom>Botte</nom>
+      <prenom>Valentin</prenom>
+      <ddn>
+        <jour>23</jour>
+        <mois>04</mois>
+        <annee>1997</annee>
+      </ddn>
+    </dossier>
+
+    <prestation>
+        <libelle>La prestation de raimon</libelle>
+      
+        <datesoin>
+          <jour>14</jour>
+          <mois>05</mois>
+          <annee>2007</annee>
+          <seconde>14</seconde>
+          <minute>40</minute>
+          <heure>2</heure>
+        </datesoin>
+
+      <intervenant>
+        <nom>Romain</nom>
+        <prenom>Dupont</prenom>
+      </intervenant>
+
+    </prestation>
+
+      <prestation>
+        <libelle>La prestation de botte</libelle>
+        <datesoin>
+          <jour>14</jour>
+          <mois>15</mois>
+          <annee>2077</annee>
+          <seconde>14</seconde>
+          <minute>40</minute>
+          <heure>22</heure>
+        </datesoin>
+
+        <intervenant>
+          <nom>Romain</nom>
+          <prenom>Duponet</prenom>
+        </intervenant>
+
+      </prestation>
+      
+       <prestation>
+        <libelle>La prestation de petit</libelle>
+        <datesoin>
+          <jour>14</jour>
+          <mois>05</mois>
+          <annee>2077</annee>  
+        </datesoin>
+         
+         <heuresoin>
+          <seconde>14</seconde>
+          <minute>40</minute>
+          <heure>2</heure>  
+        </heuresoin>
+          
+        <IntervenantExterne id="1"></IntervenantExterne>
+      </prestation>
+    
+
+
+  
+
+    <intervenantExterne>
+      <nom>Romain</nom>
+      <prenom>Nicolli</prenom>
+      <specialite>Chirurgianologue politicien ingenieur pizzaiolo vice president</specialite>
+      <adresse>elysee</adresse>
+      <tel>01 99 99 99 99</tel>
+    </intervenantExterne>
+  
+
+
+</root>

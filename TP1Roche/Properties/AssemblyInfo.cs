@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de 
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("TpEntityFramework")]
+[assembly: AssemblyTitle("TP1Roche")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TpEntityFramework")]
+[assembly: AssemblyProduct("TP1Roche")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("07800f9d-3dc9-489b-be8d-1086478ffc21")]
+[assembly: Guid("5c3fbc8e-dc1d-4eb2-bbc0-5e4d658789e2")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //
